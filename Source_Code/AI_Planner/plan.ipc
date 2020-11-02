@@ -1,0 +1,4 @@
+(no_notification_cylinderbooking r1 m1)
+(on_hvac x1 r1 m1)
+(switchoff_heater h1 r1 m1)
+(open_window-turnon_exhaust-trigger_alarm a1 e1 w1 r1 m1)
